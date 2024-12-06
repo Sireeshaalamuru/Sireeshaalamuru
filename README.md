@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java full stack development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me //alamurusireeshareddy@gmail.com//
-- 😄 Pronouns: Quick learner,positivity
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Hot water turns to ice faster than cold water
 
 <!---
